@@ -1,3 +1,2 @@
 # vmsetup
-new linux vm setup
-and i ooop
+Tafe new linux VM setup
